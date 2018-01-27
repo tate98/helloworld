@@ -4,7 +4,8 @@
 
 int main() {
 
-	printf("tate anderson\n");
+	printf("Tate Anderson Galen Kramer\n");
+
 
 	return(0);
 }
